@@ -5,4 +5,6 @@
 ###### Tecnologias utilizadas
 - React router dom
 - Styled components
-
+- Yup
+- Unform
+- Axios
